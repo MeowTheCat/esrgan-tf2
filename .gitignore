@@ -9,3 +9,5 @@ results_interp/*
 data/*/**/*.png
 data/*/**/*.jpg
 .idea/
+data/.DS_Store
+.DS_Store
